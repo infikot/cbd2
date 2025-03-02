@@ -33,7 +33,7 @@ ConfigBridge Dota 2 is a tool designed to simplify the management and transfer o
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/infikot/cbd2  # Replace with your repo URL
+    git clone https://github.com/infikot/cbd2
     cd cbd2
     ```
 
