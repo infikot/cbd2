@@ -89,7 +89,20 @@ Contributions are welcome!  Please submit pull requests or open issues for bug r
 *   **Update Functionality:** Implement a mechanism to check for and download updates to the application.
 * **Testing:** Write comprehensive unit and integration tests.
 
+## Acknowledgments
+
+This project was developed with the assistance of the following AI tools and services:
+
+*   **AI Models:**
+    *   Google Gemini
+    *   Anthropic Claude
+    *   OpenAI ChatGPT
+*   **Translation:**
+    *   DeepL Translate
+*   **Resources:**
+    *   Stack Overflow
+
 ## Contact / Support
 
-*   **GitHub Issues:** [Link to your GitHub issues page](https://github.com/infikot/cbd2/issues)
+*   **GitHub Issues:** [cbd2/issues](https://github.com/infikot/cbd2/issues)
 *   **Telegram:** [@infikot](https://t.me/infikot)
