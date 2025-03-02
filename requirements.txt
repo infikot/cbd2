@@ -1,0 +1,5 @@
+customtkinter==5.2.1
+requests
+Pillow
+psutil
+vdf
