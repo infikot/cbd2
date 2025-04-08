@@ -45,15 +45,22 @@ ConfigBridge Dota 2 is a tool designed to simplify the management and transfer o
 
 ## Usage
 
-1.  **Run the Application:**
+1. **Run the Application:**
 
-    ```bash
-    python main.py
-    ```
-    or, for more detailed console output, use the console mode:
-    ```bash
-    python main.py -console
-    ```
+    - If you're using the compiled `.exe` file from the Releases section, simply open it to start the application.
+    - For console output, run the `.exe` file with the `-console` argument (either via `cmd` or in the launch settings):
+      ```bash
+      cbd2.exe -console
+      ```
+
+    - Alternatively, you can run the Python script directly:
+      ```bash
+      python main.py
+      ```
+      or with detailed console output:
+      ```bash
+      python main.py -console
+      ```
 
 2.  **Select a Steam Account:**  The application will automatically detect Steam accounts with Dota 2 configurations.  Select the account you want to manage.
 
