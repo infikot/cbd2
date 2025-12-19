@@ -1,5 +1,8 @@
 # ConfigBridge Dota 2
 
+## OUTDATED
+new version: https://infikot.github.io/#cbd2
+
 ConfigBridge Dota 2 is a tool designed to simplify the management and transfer of Dota 2 configurations between different accounts or computers. It allows users to easily import and export their Dota 2 settings, including keybinds, video settings, and other in-game configurations.
 
 ## Features
@@ -113,3 +116,5 @@ This project was developed with the assistance of the following AI tools and ser
 
 *   **GitHub Issues:** [cbd2/issues](https://github.com/infikot/cbd2/issues)
 *   **Telegram:** [@infikot](https://t.me/infikot)
+
+
